@@ -8,4 +8,4 @@ A list of 384 eight or nine base pair tags suitable for p6-loop metabarcoding. T
 
 **Tromsø_p6-loop_synthetic_standards.fasta**:
 Six synthetic standards for use as positive controls during p6-loop amplification. These sequences are entirely artificial.
-**WARNING**: for sensitive environmental or ancient DNA analyses, these pose the same contamination potential as PCR products. Therefore, extra precautions should be taken during their manufacture.
+**WARNING**: for sensitive environmental or ancient DNA analyses, these pose the same contamination potential as PCR products. Therefore, extra precautions should be taken during manufacture.
