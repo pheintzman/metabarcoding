@@ -1,4 +1,4 @@
-aaaSequence Identity Family_NCBI Family_name Genus_NCBI Genus Rank Scientific_name Scientific_name_NCBI Taxa_included Species Species_NCBI  
+aaaSequence	Identity	Family_NCBI	Family_name	Genus_NCBI	Genus	Rank	Scientific_name	Scientific_name_NCBI	Taxa_included	Species	Species_NCBI  
 aaatttattaacgcaaacaaaaactcaaaataagcctagaggagataatctactatccctgaattaaaaatttt	0.98667	9604	Hominidae	9605	Homo	species	Homo sapiens	9606	['Homo sapiens']	Homo sapiens	9606
 aaatttattaatgcaaacagtacctaacaaacccacaggtcctaaactaccaaacctgcattaaaaatttc	0.97222	9604	Hominidae	9605	Homo	genus	Homo	NA	['Homo sapiens']	NA	9605
 aactcattaatgcaaataaaacttcaaaaagcctacaggccttagcatactgtctgcgcattaaaatttt	0.95833	9604	Hominidae	9605	Homo	species	Homo sapiens	9606	['Homo sapiens']	Homo sapiens	9606
